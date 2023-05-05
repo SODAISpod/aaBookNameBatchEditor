@@ -17,7 +17,8 @@ AA 小說下載閱讀器這個APK被GOOGLE標註為*可能有害的程式*，
 
 ![image](https://user-images.githubusercontent.com/6829907/236303260-14efe373-72b4-4712-bfb3-577bcd478e5a.png)  
 ![未命名-1](https://user-images.githubusercontent.com/6829907/236310590-9aa51696-f857-40f8-979b-568c8ae8d4d3.png)  
-![未命名-12](https://user-images.githubusercontent.com/6829907/236311445-59d595b1-02b8-445c-ad10-0c2d4f4cef9d.png)
+![image](https://user-images.githubusercontent.com/6829907/236387206-be8a190f-8497-4646-91be-da8ec8b45f0b.png)
+
 
 
 在這次的更新中新增了自動在檔名最前方增加羅馬數字編號的功能
